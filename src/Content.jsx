@@ -6,7 +6,7 @@ import { Routes, Route } from "react-router-dom";
 
 export function Content() {
   return (
-    <div>
+    <div className="container">
       <Routes>
         <Route path="/home" element={<Home />} />
         <Route path="/" element={<Invitation />} />
