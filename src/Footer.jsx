@@ -1,7 +1,7 @@
 export function Footer() {
   return (
-    <footer>
-      <p>Copyright 2022</p>
-    </footer>
+    <div>
+      <footer className="m-5">Copyright Dianelly Ventura 2023</footer>
+    </div>
   );
 }
