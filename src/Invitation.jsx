@@ -1,6 +1,6 @@
 export function Invitation() {
   return (
-    <div>
+    <div className="container-fluid">
       <h1>You are Invited to Anggie & Alberto&apos;s Baby Shower</h1>
       <img
         className="m-5"
