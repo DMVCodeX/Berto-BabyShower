@@ -15,10 +15,12 @@ html {
 
 }
 
-#registry-img {
-  width: 600px;
-  height: 700px;
+#home-img {
+  width: 400px;
+  height: 800px;
 }
+
+
 button:hover {
   color: white !important;
 }
