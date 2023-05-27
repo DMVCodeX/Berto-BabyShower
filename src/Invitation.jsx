@@ -12,15 +12,18 @@ export function Invitation() {
       />
       <br />
 
-      <h2 id="orange">Save the Date:</h2>
+      <h1 id="orange">Save the Date:</h1>
       <h5>July 29th, 2023</h5>
       <br />
       <h2 id="orange">Location:</h2>
       <h5>Thomas Bull Memorial Park</h5>
       <br />
-      <h4 id="orange">Address:</h4>
+      <h2 id="orange">Address:</h2>
       <h5>211 State Route 416</h5>
       <h5>Montgomery, NY 12549</h5>
+      <br />
+      <h2 id="orange">Time:</h2>
+      <h5>2pm - 6pm</h5>
       <br />
       <h3 id="orange">Memo:</h3>
       <h5>Near by Accommodations</h5>
