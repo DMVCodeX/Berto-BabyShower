@@ -4,7 +4,7 @@ export function Invitation() {
       <h1>You are Invited to Anggie & Alberto&apos;s Baby Shower</h1>
       <img
         id="invite-img"
-        className="m-5"
+        className=""
         src="https://t3.ftcdn.net/jpg/05/27/83/70/360_F_527837080_j1jPNhyFFzNnElky9gtAfyPJI8Cu23m2.jpg"
         alt=""
       />

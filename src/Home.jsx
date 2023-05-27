@@ -9,7 +9,7 @@ export function Home() {
           <div className="carousel-item active" data-bs-interval="10000">
             <img
               id="home-img"
-              src="https://previews.dropbox.com/p/thumb/AB7iQ9CzsKxCMg7FAGxd5b2qh0bQ2P5ZqkMuKguHoQwN4BlLALTLX3aHIFH09UnhVKuTnfTX5yA2gRSKSWpPLAVXXr7amBBAwMtF3t9frzecF_mS-p6XssBHc_zvMQKgVLYNehviEfELPl8r_I5OAUWQllOVqhJM6HdQ-uBC0oc3LqQbUZwsHOjbpxhLNlL50qeTQWtj_yiAQCwoJ5FlLNWzhiHWYVsCarO8Id8N877GP0wpe4mYlO1pMBkpyMpBE7jZyapHzXNH2Zc2q3KFzfdpTszQwFKPTcyCyZgndRS2QlY6ZGPhbk3R5zEmzt4UogLjk_mdw-PI9MnmkH2L4tLpb7964Ix-lJH-JRNGKtQ1RTWgfReob3gOPRLLHZDqZuE/p.png"
+              src="https://res.cloudinary.com/dlrkhf7ne/image/upload/v1685224563/Berto-BabyShower/baby-oliver_vkvdlf.png"
               className="d-block w-100"
               alt="..."
             />
@@ -17,7 +17,7 @@ export function Home() {
           <div className="carousel-item" data-bs-interval="2000">
             <img
               id="home-img"
-              src="https://previews.dropbox.com/p/thumb/AB446qe8W0aF37IIuuZGOjMm1s0ezCqPCcMxhtIbM94E2v4Bk7rHWKxE_02oDLv77GwVPlGzgAW0wUnGAHgr-_AOkvGwcfoSLrI720h4rei_Jvms2movuRksj7a_kyXspgp9KUHWxKnqOSBygIvTys8mP-1G8XcEOm4SUgmlqO_X2bzNgkjEKXEfLU2EpED5Ub5qsvlhAfSRzPFzhM3gQXxPmTquRsbybolPqFe7LjiK9Ej2tWzNzCMgTJC8J8jtwuQ63YQ5F1HXNOFL4Zze2HCMvwM16TCF5bX5_u228D8pXbtlwbrxoNKgB7AzYIwm78ILGTSr0AIAocEMFduOLJxx5eg16UffM6b1H93gqeJpPgpNSjeDBI7BZRYAungvt2o/p.png"
+              src="https://res.cloudinary.com/dlrkhf7ne/image/upload/v1685224563/Berto-BabyShower/berto-anggie_hbbq5g.png"
               className="d-block w-100"
               alt="..."
             />
