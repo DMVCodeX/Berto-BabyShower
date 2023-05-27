@@ -11,7 +11,11 @@ export function Registry() {
         target="_blank"
         href="https://www.myregistry.com/baby-registry/anggie-estrella-and-alberto-arias-chester-ny/3670968"
       >
-        <img id="registry-img" src="./src/assets/bear.png" alt="" />
+        <img
+          id="registry-img"
+          src="https://st2.depositphotos.com/4207741/7860/v/600/depositphotos_78607304-stock-illustration-teddy-bear-with-baby-carriage.jpg"
+          alt=""
+        />
       </a>
     </div>
   );
