@@ -1,7 +1,9 @@
 export function Invitation() {
   return (
     <div className="container">
-      <h1>You are Invited to Anggie & Alberto&apos;s Baby Shower</h1>
+      <h1 id="orange" className="m-3 ">
+        You are Invited to Anggie & Alberto&apos;s Baby Shower
+      </h1>
       <img
         id="invite-img"
         className=""
@@ -10,15 +12,17 @@ export function Invitation() {
       />
       <br />
 
-      <h2>Save the Date:</h2>
+      <h2 id="orange">Save the Date:</h2>
       <h5>July 29th, 2023</h5>
-      <h2>Location:</h2>
+      <br />
+      <h2 id="orange">Location:</h2>
       <h5>Thomas Bull Memorial Park</h5>
-      <h4>Address:</h4>
+      <br />
+      <h4 id="orange">Address:</h4>
       <h5>211 State Route 416</h5>
       <h5>Montgomery, NY 12549</h5>
       <br />
-      <h3>Memo:</h3>
+      <h3 id="orange">Memo:</h3>
       <h5>Near by Accommodations</h5>
       <a href="/accommodations">
         {" "}

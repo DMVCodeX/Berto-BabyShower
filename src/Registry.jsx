@@ -1,7 +1,7 @@
 export function Registry() {
   return (
     <div className="container">
-      <h1 className="m-3">
+      <h1 id="orange" className="m-3">
         Click the image to view our registry <p></p>
         <img src="https://img.icons8.com/?size=512&id=2898&format=png" alt="" height="40px" width="40px" />
       </h1>

@@ -1,8 +1,13 @@
 export function Home() {
   return (
     <div>
-      <h1 className="m-5">Welcome Baby</h1>
-      <h2 className="m-2">Due September 2023</h2>
+      <h1 className="m-5">
+        Welcome Baby{" "}
+        <img src="https://cdn-icons-png.flaticon.com/512/7890/7890168.png" alt="" width="60px" height="60px" />
+      </h1>
+      <h2 id="orange" className="m-5">
+        Due September 2023
+      </h2>
 
       <div id="carouselExampleInterval" className="carousel slide" data-bs-ride="carousel">
         <div className="carousel-inner">
