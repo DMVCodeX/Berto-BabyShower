@@ -23,6 +23,7 @@ export function Invitation() {
         {" "}
         <img className="m-3" src="https://img.icons8.com/?size=512&id=10666&format=png" alt="" height="50" width="50" />
       </a>
+      <p>Click the icon to view near by options.</p>
     </div>
   );
 }
