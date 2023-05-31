@@ -26,6 +26,11 @@ export function Invitation() {
       <h5>2pm - 6pm</h5>
       <br />
       <h3 id="orange">Memo:</h3>
+      <h5>RSVP to Tania at 347-337-1204</h5>
+
+      <br />
+      <h3 id="orange">Accommodations:</h3>
+
       <h5>Near by Accommodations</h5>
       <a href="/accommodations">
         {" "}
